@@ -1,0 +1,19 @@
+1. Abrir os olhos
+2. Alongar o corpo.
+3. Abrir as janelas para entrar claridade.
+4. Sentar na beira da cama.
+5. Ir ao banheiro lavar o rosto.
+6. Escovar os dentes.
+7. Tomar banho.
+8. Vestir a roupa do trabalho.
+9. Estou atrasado?
+    9.1 Sim? Pular o café da manhã.
+    9.2 Não? Preparar o café da manhã.
+
+10. Preciso levar algum documento importante?
+    10.1 Sim? Abrir a gaveta do escritório e procurar o documento.
+    10.2 Não? Pegar a chave do carro na cozinha.
+
+11. Descer até a garagem do prédio.
+12. Dirigir até o local de trabalho.
+
